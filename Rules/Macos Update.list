@@ -1,8 +1,0 @@
-# Name: MacosUpdate
-# AUTHOR: garçon26
-HOST-SUFFIX,swscan.apple.com,MacosUpdate
-HOST-SUFFIX,swdist.apple.com,MacosUpdate
-HOST-SUFFIX,swcdn.apple.com,MacosUpdate
-HOST-SUFFIX,gdmf.apple.com,MacosUpdate
-HOST-SUFFIX,mesu.apple.com,MacosUpdate
-HOST-SUFFIX,xp.apple.com,MacosUpdate
